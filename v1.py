@@ -102,7 +102,7 @@ elif pilih == 3:
 	tik()
 	os.system ('bash babi_lu.sh')
 elif pilih == 4:
-	os.system('xdg-open https://www.mediafire.com/download/5czld56xq9ptazy')
+	os.system('xdg-open http://www.mediafire.com/file/5czld56xq9ptazy/ID%2526PASS.txt/file')
 elif pilih == 0:
 	os.system('clear')
 	print '\033[1;37mTerimakasih Telah Menggunakan Tools Ini ^_^'
